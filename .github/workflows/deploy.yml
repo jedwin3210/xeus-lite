@@ -30,6 +30,8 @@ jobs:
         run: |
           cp README.md content
           jupyter lite build --contents content --output-dir dist
+          test -f landing/index.html
+          cp landing/index.html dist/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
