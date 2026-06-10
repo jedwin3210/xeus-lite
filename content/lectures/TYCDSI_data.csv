@@ -1,0 +1,24 @@
+years,extroversion,text_per_day,hours_of_sleep,handedness,pants_order,position_of_sleep,pets,fav_tv_show,num_piercings
+14,7,5,8.0,Right-handed,Right leg in first,Rotating,Dog,Ted Lasso,4
+28,7,4,7.0,Right-handed,Right leg in first,Rotating,Cat,Ted Lasso,1
+22,8,15,7.0,Right-handed,I don't know,On my right side,Dog,Friends,6
+17,3,5,8.0,Right-handed,Left leg in first,On my left side,Fish,Black Mirror,4
+7,4,4,7.0,Right-handed,Right leg in first,Rotating,Cat,nan,0
+12,8,5,7.0,Right-handed,Right leg in first,On my right side,Fish,Only Murders in the Building,2
+10,6,5,7.0,Right-handed,Left leg in first,Rotating,nan,nan,2
+19,7,4,8.0,Right-handed,Right leg in first,On my back,Dog,Stranger Things,1
+25,1,2,7.0,Right-handed,I don't know,Rotating,Dog,Black Mirror,7
+16,3,4,7.0,Right-handed,I don't know,On my back,nan,Ted Lasso,6
+21,6,3,7.0,Right-handed,Right leg in first,Rotating,nan,nan,2
+11,3,3,7.0,Right-handed,Right leg in first,On my stomach,nan,Black Mirror,0
+24,2,2,7.0,Left-handed,Left leg in first,On my left side,Cat,nan,1
+13,3,1,8.0,Left-handed,Right leg in first,Rotating,nan,Black Mirror,0
+20,4,5,7.0,Right-handed,Left leg in first,On my right side,nan,Only Murders in the Building,2
+15,5,5,8.0,Right-handed,Right leg in first,On my right side,nan,nan,2
+25,5,5,8.0,Right-handed,Right leg in first,On my right side,Dog,Ted Lasso,0
+25,6,5,7.0,Right-handed,Right leg in first,On my right side,"I don't have any pets, but my daughter-in-law has 2 cats in my house.",nan,0
+25,5,2,7.0,Right-handed,Right leg in first,On my right side,Dog,SVU,3
+15,3,2,7.0,Right-handed,Left leg in first,On my left side,Cat,Only Murders in the Building,0
+22,5,4,6.0,Right-handed,Left leg in first,On my left side,Dog,nan,4
+17,5,0,5.5,Right-handed,Right leg in first,Rotating,nan,Resident Alien,0
+38,7,3,6.0,Right-handed,Left leg in first,On my left side,nan,nan,1
